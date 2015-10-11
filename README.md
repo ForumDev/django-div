@@ -1,4 +1,4 @@
-# forumdev-div
+# django-fddiv
 a collection of django apps used by the forumdev project which (at least not yet) warrant a standalone project since they are very specifically design for use cases in the forumdev project 
 
 #### install
